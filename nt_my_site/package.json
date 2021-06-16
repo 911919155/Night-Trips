@@ -1,0 +1,50 @@
+{
+  "name": "nt",
+  "version": "1.0.0",
+  "description": "NT website template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "node gulpfile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunnatillauskinov/NT..git"
+  },
+  "keywords": [
+    "HTML",
+    "Gulp",
+    "Pug",
+    "Jade",
+    "Css",
+    "Sass",
+    "SCSS",
+    "JavaScript"
+  ],
+  "author": "SUNNATILLA sunnatilla415@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnatillauskinov/NT..git"
+  },
+  "homepage": "https://github.com/sunnatillauskinov/NT..git",
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "babel-preset-minify": "^0.5.1",
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-load-plugins": "^2.0.6",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-ttf2woff": "^1.1.1",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-webp": "^4.0.1",
+    "node-sass": "^5.0.0",
+    "typescript": "^4.2.3"
+  }
+}
